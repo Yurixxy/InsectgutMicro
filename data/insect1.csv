@@ -1,0 +1,105 @@
+InsectSpeices,Mean_Converted_Value,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,1
+Acromyrmex echinatior,,,,,,,,Acromyrmex echinatior
+Aedes aegypti,,,,,,,,Aedes aegypti
+Anabrus simplex,,,,,,,,Anabrus simplex
+Anastrepha fraterculus,,,,,,,,Anastrepha fraterculus
+Anastrepha ludens,,,,,,,,Anastrepha ludens
+Aphis gossypii,,,,,,,,Aphis gossypii
+Apis andreniformis,,,,,,,,Apis andreniformis
+Apis cerana,34.44856364,,,,,,,Apis cerana
+Apis dorsata,,,,,,,,Apis dorsata
+Apis florea,,,,,,,,Apis florea
+Apis mellifera,78.76689935,,,,,,,Apis mellifera
+Ariadne merione,,,,,,,,Ariadne merione
+Atta cephalotes,,,,,,,,Atta cephalotes
+Bactrocera minax,,,,,,,,Bactrocera minax
+Blattella germanica,,,,,,,,Blattella germanica
+Bombus pascuorum,200.636172,,,,,,,Bombus pascuorum
+Bombus terrestris,275.6965044,,,,,,,Bombus terrestris
+Bombyx mori,1165.0,,,,,,,Bombyx mori
+Caligo atreus,,,,,,,,Caligo atreus
+Caligo brasiliensis,,,,,,,,Caligo brasiliensis
+Centris atripes,150.770934,,,,,,,Centris atripes
+Cephalotes rohweri,,,,,,,,Cephalotes rohweri
+Ceratitis capitata,2.737878965,,,,,,,Ceratitis capitata
+Ceratitis quilicii,,,,,,,,Ceratitis quilicii
+Cithaerias pireta,50.531,,,,,,,Cithaerias pireta
+Coelopa frigida,,,,,,,,Coelopa frigida
+Copris incertus,,,,,,,,Copris incertus
+Coptotermes formosanus,2.95,,,,,,,Coptotermes formosanus
+Cotinis nitida,,,,,,,,Cotinis nitida
+Cryptotermus spp.,,,,,,,,Cryptotermus spp.
+Culex nigripalpus,,,,,,,,Culex nigripalpus
+Culex tarsalis,2.23,,,,,,,Culex tarsalis
+Culicoides nubeculosus,,,,,,,,Culicoides nubeculosus
+Culicoides sonorensis,,,,,,,,Culicoides sonorensis
+Danaus chrysippus,102.737,,,,,,,Danaus chrysippus
+Diacamma sp.,,,,,,,,Diacamma sp.
+Diploptera punctata,205.6728867,,,,,,,Diploptera punctata
+Dipteryx oleifera,,,,,,,,Drosophila melanogaster
+Drosophila melanogaster,1.204138223,,,,,,,Drosophila nigrosparsa
+Drosophila nigrosparsa,,,,,,,,Dysdercus concinnus
+Dysdercus concinnus,,,,,,,,Dysdercus obliquus
+Dysdercus obliquus,,,,,,,,Ergaula capucina
+Ergaula capucina,2.442551906,,,,,,,Eurema blanda
+Eurema blanda,58.847,,,,,,,Euschistus burchellii
+Euschistus burchellii,,,,,,,,Euschistus hamatum
+Euschistus hamatum,,,,,,,,Euschistus heros
+Euschistus heros,,,,,,,,Galleria mellonella
+Galleria mellonella,,,,,,,,Gangara thyrsis
+Gangara thyrsis,,,,,,,,Geniotrigona thoracica
+Geniotrigona thoracica,,,,,,,,Gromphadorhina portentosa
+Gromphadorhina portentosa,,,,,,,,Gryllodes sigillatus
+Gryllodes sigillatus,,,,,,,,Helicoverpa zea
+Helicoverpa zea,,,,,,,,Hermetia illucens
+Hermetia illucens,,,,,,,,Heterotrigona itama
+Hermetia illucens L.,,,,,,,,Lasius
+Heterotrigona itama,,,,,,,,Lasius claviger
+Laboratory reagents,,,,,,,,Lasius umbratus
+Lasius,,,,,,,,Melitaea cinxia
+Lasius claviger,,,,,,,,Musca domestica
+Lasius umbratus,,,,,,,,Orthetrum pruinosum
+Melitaea cinxia,,,,,,,,Orthetrum sabina
+Musca domestica,,,,,,,,Panchlora nivea
+not applicable,,,,,,,,Pantala flavescens
+Orthetrum pruinosum,,,,,,,,Paraplecta sp. Kenya
+Orthetrum sabina,,,,,,,,Paratrigona lineata
+Panchlora nivea,,,,,,,,Paryphthimoides terrestris
+Pantala flavescens,,,,,,,,Periplaneta americana
+Paradieuches dissimilis,,,,,,,,Periplaneta fuliginosa
+Paraplecta sp. Kenya,,,,,,,,Phanaeus difformis
+Paratrigona lineata,,,,,,,,Phanaeus vindex
+Paryphthimoides terrestris,,,,,,,,Phlebotomus papatasi
+Periplaneta americana,,,,,,,,Phlebotomus similis
+Periplaneta fuliginosa,,,,,,,,Phlebotomus tobbi
+Phanaeus difformis,,,,,,,,Pieris brassicae
+Phanaeus vindex,,,,,,,,Pieris rapae
+Phlebotomus papatasi,,,,,,,,Piezodorus guildinii
+Phlebotomus similis,,,,,,,,Podisus maculiventris
+Phlebotomus tobbi,,,,,,,,Polistes chinensis
+Pieris brassicae,,,,,,,,Polistes humilis
+Pieris rapae,,,,,,,,Polyphaga aegyptiaca
+Piezodorus guildinii,,,,,,,,Prociphilus
+Podisus maculiventris,,,,,,,,Prociphilus erigeronensis
+Polistes chinensis,,,,,,,,Propylea japonica
+Polistes humilis,,,,,,,,Pseudatomoscelis seriatus
+Polyphaga aegyptiaca,,,,,,,,Pycnoscelus surinamensis
+Prociphilus,,,,,,,,Reticulitermes flavipes
+Prociphilus erigeronensis,,,,,,,,Rhizoecus
+Propylea japonica,,,,,,,,Schistocerca gregaria
+Pseudatomoscelis seriatus,,,,,,,,Scyphophorus acupunctatus 
+Pycnoscelus surinamensis,,,,,,,,Spalgis epeus
+Reticulitermes flavipes,,,,,,,,Spodoptera frugiperda
+Rhizoecus,,,,,,,,Spodoptera littoralis
+Schistocerca gregaria,,,,,,,,Symploce pallens
+Scyphophorus acupunctatus ,,,,,,,,Taygetis laches
+Spalgis epeus,,,,,,,,Tetragonula fuscobalteata
+Spodoptera frugiperda,,,,,,,,Trigona hyalinata
+Spodoptera littoralis,,,,,,,,Trigona spinipes
+Symploce pallens,,,,,,,,Vespula vulgaris
+Taygetis laches,,,,,,,,Zeugodacus cucurbitae
+Tetragonula fuscobalteata,,,,,,,,(空白)
+Trigona hyalinata,,,,,,,,nan
+Trigona spinipes,,,,,,,,nan
+Vespula vulgaris,,,,,,,,nan
+Zeugodacus cucurbitae,,,,,,,,nan
