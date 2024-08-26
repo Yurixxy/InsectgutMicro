@@ -1,0 +1,5 @@
+Model,F-test (Comparison),F-value,p-value,Standardized Coefficient (LogMass),Standardized Coefficients (lifestage)
+Model 1 (Shannon ~ LogMass),Model 1 vs. Model 2,5.4349,0.001061,0.42904,NA
+Model 2 (Shannon ~ LogMass + lifestage),-,-,-,0.42904,"-0.01857 (Pupa), -0.14512 (Adult), -0.03429 (Egg)"
+Model 3 (LogRichness ~ LogMass),Model 3 vs. Model 4,32.251,< 2.2e-16,0.01145,NA
+Model 4 (LogRichness ~ LogMass + lifestage),-,-,-,0.01145,"-0.140424 (Pupa), -0.389830 (Adult), -0.197187 (Egg)"
