@@ -1,0 +1,3 @@
+sample-id,absolute_filepath,direction
+ERR3476219,/Users/SUO/ncbi/test/fastq/ERR3476219_1.fastq,forward
+ERR3476219,/Users/SUO/ncbi/test/fastq/ERR3476219_2.fastq,reverse
