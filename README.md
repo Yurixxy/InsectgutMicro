@@ -186,7 +186,9 @@ This project began with discussions with my supervisor, Samraat (an amazing supe
 In addition to examining body size and gut microbiome diversity, future studies could explore:  
 1. **Food retention time in the gut**  
 2. **Insect habitat range**  
-3. **Different food types (e.g., pH levels) and their relationship with gut microbiome diversity**  
+3. **Different food types (e.g., pH levels)**
+
+and their relationship with gut microbiome diversity
 
 My research, although valuable, faced data limitations as it was based on previous experimental data with varying conditions, making it difficult to standardize comparisons. For those with the means, conducting controlled lab experiments where variables are controlled, and 16S rRNA analysis is performed from scratch would be beneficial.  
 
