@@ -190,7 +190,7 @@ In addition to examining body size and gut microbiome diversity, future studies 
 
 and their relationship with gut microbiome diversity
 
-My research, although valuable, faced data limitations as it was based on previous experimental data with varying conditions, making it difficult to standardize comparisons. For those with the means, conducting controlled lab experiments where variables are controlled, and 16S rRNA analysis is performed from scratch would be beneficial.  
+My research, although a bit valuable, faced data limitations as it was based on previous experimental data with varying conditions, making it difficult to standardize comparisons. For example: the NCBI didn't provide the insect mass data, I used the insect body mass data from my lab member George (Thank you George!!). For those with the means, conducting controlled lab experiments where variables are controlled, and all the PCR and 16S rRNA analysis are performed by yourself would be better.  
 
 Overall, despite being somewhat rudimentary, this project represents a bold attempt to explore the insect world. I hope future researchers will approach this topic with open-mindedness and continue exploring such interesting themes!  
 
