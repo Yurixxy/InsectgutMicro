@@ -1,1 +1,1 @@
-
+You can read the `Methods` part of `XinyuXIEmasterreport-final.pdf` for more data process details, but the other parts are not very useful as references since I didn’t score very high in the end (hahaha). At the same time, I also feel that there is plenty of room for improvement in my report.
